@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Intensive two-year study course preparing for the competitive entrance examinations to the French ‘Grandes Écoles’ (the top French and highly-selective institutions), Lycée Pierre Corneille (Rouen, France) & Lycée Aristide Briand (Evreux, France), 2013-2015
@@ -16,22 +18,24 @@ Education
 * Ph.D in Computer Science (Non-volatile Main Memory, and its applications), University of Neuchâtel, 2018-2022 (expected)
 
 Work experience
-======
-* 2018 - (2022): Teacher Assistant
-  * University of Neuchâtel, Switzerland
-  * Duties included: During Spring and Fall semesters, 2 hours/week of exercises for students, on various Computer Science topics.
-  * Supervisor: [Prof. Pascal Felber](http://members.unine.ch/pascal.felber/index.html), University of Neuchâtel
+====
+
+* Winter 2017: FabLab Manager assistant
+  * [Plascilab](https://www.plascilab.fr/) (Ris-Orangis, France), [Planète Sciences](https://www.planete-sciences.org) non-profit organization.
+  * Duties included: Popular Science for children, and technical support for the FabLab (Robotics, 3D conception, 3D printers, Laser cutter, UAVs...) 
+
 
 * Spring 2018: Research Assistant
   * Parallel and Distributed System lab, Télécom SudParis (Evry, France)
   * Duties included: Study the effect of "Uncore frequency" on Intel Haswell CPUs performances
   * Supervisor: [Dr. Amina Guermouche](https://guermouche.wp.imtbs-tsp.eu/), Télécom Sudparis
+  
+* 2018 - (2022): Teacher Assistant
+  * University of Neuchâtel, Switzerland
+  * Duties included: During Spring and Fall semesters, 2 hours/week of exercises for students, on various Computer Science topics.
+  * Supervisor: [Prof. Pascal Felber](http://members.unine.ch/pascal.felber/index.html), University of Neuchâtel
 
-* Winter 2017: FabLab Manager assistant
-  * [Plascilab](https://www.plascilab.fr/) (Ris-Orangis, France), [Planète Sciences](https://www.planete-sciences.org) non-profit organization.
-  * Duties included: Popular Science for children, and technical support for the FabLab (Robotics, 3D conception, 3D printers, Laser cutter, UAVs...) 
-  
-  
+
 Skills
 ======
 * Linux
