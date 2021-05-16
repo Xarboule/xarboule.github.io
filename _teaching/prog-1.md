@@ -4,9 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/prog-1
 venue: "University of Neuchâtel, Computer Science Institute"
-date: 2020 - (2021)
+date: 2020
 location: "Neuchâtel, Switzerland"
 ---
+
+/2020 - (2021)/
 
 Teacher Assistant for the Python course (beginner level).
 

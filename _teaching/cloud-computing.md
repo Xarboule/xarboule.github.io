@@ -4,9 +4,11 @@ collection: teaching
 type: "Post-graduate course"
 permalink: /teaching/cloud-computing
 venue: "University of Neuchâtel, Computer Science Institute"
-date: 2018 - (2021)
+date: 2018
 location: "Neuchâtel, Switzerland"
 ---
+
+/2018 - (2021)/
 
 Teacher Assistant for the Cloud Computing course.
 
