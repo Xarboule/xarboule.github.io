@@ -4,7 +4,7 @@ collection: talks
 type: "talk"
 permalink: /talks/effects-uncore
 venue: "University of Iasì"
-date: 2018-22-11
+date: 2018-11-22
 location: "Iasì, Romania"
 ---
 
