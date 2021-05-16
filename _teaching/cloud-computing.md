@@ -4,7 +4,7 @@ collection: teaching
 type: "Post-graduate course"
 permalink: /teaching/cloud-computing
 venue: "University of Neuchâtel, Computer Science Institute"
-date: 2018
+date: 2018-10-1
 location: "Neuchâtel, Switzerland"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/prog-1
 venue: "University of Neuchâtel, Computer Science Institute"
-date: 2019
+date: 2019-10-1
 location: "Neuchâtel, Switzerland"
 ---
 
