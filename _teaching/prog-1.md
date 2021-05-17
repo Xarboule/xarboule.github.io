@@ -8,7 +8,7 @@ date: 2020-10-1
 location: "Neuchâtel, Switzerland"
 ---
 
-/2020 - (2021)/
+**2020 - (2021)**
 
 Teacher Assistant for the Python course (beginner level).
 

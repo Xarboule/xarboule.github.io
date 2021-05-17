@@ -8,7 +8,7 @@ date: 2018-10-1
 location: "Neuchâtel, Switzerland"
 ---
 
-/2018 - (2021)/
+**2018 - (2021)**
 
 Teacher Assistant for the Cloud Computing course.
 
