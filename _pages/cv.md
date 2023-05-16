@@ -15,7 +15,7 @@ Education
 ======
 * Intensive two-year study course preparing for the competitive entrance examinations to the French ‘Grandes Écoles’ (the top French and highly-selective institutions), Lycée Pierre Corneille (Rouen, France) & Lycée Aristide Briand (Evreux, France), 2013-2015
 * Engineering degree in Computer Science, Telecommunications, and Embedded systems, Télécom SudParis (Evry, France), 2015-2018
-* Ph.D in Computer Science (Non-volatile Main Memory, and its applications), University of Neuchâtel, 2018-2022 (expected)
+* Ph.D in Computer Science (Non-volatile Main Memory, and its applications), University of Neuchâtel, 2018 - 2023 (Expected)
 
 Work experience
 ====
